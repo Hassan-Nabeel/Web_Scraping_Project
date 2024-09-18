@@ -5,7 +5,7 @@ The README file contains the description of the following projects:
  Objective:
  - Scrape data from multiple web pages i.e., from the homepage to the last page, and make a data frame from it and save it to a CSV file.
    
- The following data are scraped from the website homepage:
+ The following data are scraped from the website:
   1.	quote
   2.	author
   3.	author_id
@@ -21,7 +21,7 @@ The projects is divided into two parts:
  Objective:
  - Scrape data from a website's multiple pages i.e., from the homepage to the last page, and make a data frame from it and save it to a CSV file.
 
- The following data are scraped from the website homepage:
+ The following data are scraped from the website:
    1.	title
    2.	rating 
    3.	price
@@ -54,13 +54,18 @@ The projects is divided into two parts:
  Objective:
  - Scraping biography articles of the leaders from Wikipedia by taking input from the users and saving articles to a text file.
 
+ The following data are scraped from the website:
+  1.	articles
+  2.	contents
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 3. Youtube Scraping 
  Objective:
  - Automate the scraping from websites - YouTube videos by using web drivers, make data frames from it, and save data to a CSV file.
 
- The following data are scraped from the website homepage:
+ The following data are scraped from the website:
   1.	title
   2.	data_time
   3.	like
@@ -77,7 +82,7 @@ The projects is divided into two parts:
  Objective:
  - Scraping images from websites by using web drivers, making data frames from it, and saving data to a CSV file.
 
- The following data are scraped from the website homepage:
+ The following data are scraped from the website:
   1.	url
   2.	tags
   3.	like
@@ -87,7 +92,7 @@ The projects is divided into two parts:
  Objective:
  - Automate the scraping of images from websites by using web drivers, make data frames from it, and save data to a CSV file.
 
-The following data are scraped from the website homepage:
+The following data are scraped from the website:
   1.	image_link
   2.	tags
   3.	like
