@@ -37,15 +37,17 @@ The projects is divided into two parts:
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
+## 2.  Wikipedia Scraping 
+ Objective:
+ - Scraping biography articles of the leaders from Wikipedia by taking input from the users and saving articles to a text file.
 
-
-## 2. Image Dataset Creation
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 3. Stock Image Scraper
 
 ## 4. Web Page Scraping
 
-## 5. Wikipedia Scraping
+## 5. Image Dataset Creation
 
 ## 6. Youtube Scraping
 
