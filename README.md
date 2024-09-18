@@ -57,8 +57,18 @@ The projects is divided into two parts:
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 3. Youtube Scraping 
+ Objective:
+ - Automate the scraping from websites - YouTube videos by using web drivers, make data frames from it, and save data to a CSV file.
 
+ The following data are scraped from the website homepage:
+  1.	title
+  2.	data_time
+  3.	like
+  4.	views
+  5.	link 
+  6.	description
 
+---------------------------------------------------------------------------------------------------------------------------
 
 ## 5. Stock Image Scraper 
 
