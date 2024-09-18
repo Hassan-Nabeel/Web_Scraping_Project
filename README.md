@@ -71,6 +71,29 @@ The projects is divided into two parts:
 ---------------------------------------------------------------------------------------------------------------------------
 
 ## 5. Stock Image Scraper 
+The projects is divided into two parts:
+
+### Stock Image Scraper-1
+ Objective:
+ - Scraping images from websites by using web drivers, making data frames from it, and saving data to a CSV file.
+
+ The following data are scraped from the website homepage:
+  1.	url
+  2.	tags
+  3.	like
+  4.	comments
+
+### Stock Image Scraper-2
+ Objective:
+ - Automate the scraping of images from websites by using web drivers, make data frames from it, and save data to a CSV file.
+
+The following data are scraped from the website homepage:
+  1.	image_link
+  2.	tags
+  3.	like
+  4.	comments
+
+--------------------------------------------------------------------------------------------
 
 ## 6. Image Dataset Creation
 
