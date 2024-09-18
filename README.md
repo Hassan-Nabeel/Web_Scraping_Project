@@ -1,7 +1,20 @@
 # Web_Scraping_Project
 The README file contains the description of the following projects:
 
-## 1. Book Scraping
+## 1. WebPage Scraping
+ Objective:
+ - Scrape data from multiple web pages i.e., from the homepage to the last page, and make a data frame from it and save it to a CSV file.
+   
+ The following data are scraped from the website homepage:
+  1.	quote
+  2.	author
+  3.	author_id
+  4.	tags
+  5.	author_link 
+
+-----------------------------------------------------------------------------------------------------------
+
+## 2. Book Scraping
 The projects is divided into two parts:
 
 ### Book Scraper - 1
@@ -37,7 +50,7 @@ The projects is divided into two parts:
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## 2.  Wikipedia Scraping 
+## 3.  Wikipedia Scraping 
  Objective:
  - Scraping biography articles of the leaders from Wikipedia by taking input from the users and saving articles to a text file.
 
@@ -45,7 +58,7 @@ The projects is divided into two parts:
 
 ## 3. Stock Image Scraper
 
-## 4. Web Page Scraping
+
 
 ## 5. Image Dataset Creation
 
