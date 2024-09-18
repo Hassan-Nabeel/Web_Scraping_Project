@@ -95,6 +95,5 @@ The following data are scraped from the website homepage:
 
 --------------------------------------------------------------------------------------------
 
-## 6. Image Dataset Creation
 
 
