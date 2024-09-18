@@ -56,11 +56,12 @@ The projects is divided into two parts:
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-## 3. Stock Image Scraper
+## 3. Youtube Scraping 
 
 
 
-## 5. Image Dataset Creation
+## 5. Stock Image Scraper 
 
-## 6. Youtube Scraping
+## 6. Image Dataset Creation
+
 
